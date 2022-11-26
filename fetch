@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# fetch all configs and put them into cfg/
+#
+
+cp ~/.vimrc cfg/vimrc
+cp ~/.gitconfig cfg/gitconfig

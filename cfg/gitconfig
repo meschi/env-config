@@ -1,0 +1,9 @@
+[user]
+	email = 
+	name = Kilian F.
+
+[diff]
+    external = vimdiff
+
+[core]
+    editor = vim

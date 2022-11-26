@@ -1,0 +1,14 @@
+syntax on
+set number
+
+" whitespace instead of tab
+set expandtab
+
+" width of tab
+set tabstop=4
+
+" width of shifting with >>
+set shiftwidth=4
+
+" automatic indentation
+set autoindent
