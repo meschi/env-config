@@ -12,3 +12,7 @@ set shiftwidth=4
 
 " automatic indentation
 set autoindent
+
+" show trailing whitespaces as red
+highlight RedundantSpaces ctermbg=red guibg=red
+match RedundantSpaces /\s\+$/

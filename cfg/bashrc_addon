@@ -1,0 +1,3 @@
+# usage: source "path/to/this/file"
+
+alias xo="xdg-open"
