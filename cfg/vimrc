@@ -16,3 +16,6 @@ set autoindent
 " show trailing whitespaces as red
 highlight RedundantSpaces ctermbg=red guibg=red
 match RedundantSpaces /\s\+$/
+
+" display filename in terminal tab
+set title
