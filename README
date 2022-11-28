@@ -1,0 +1,3 @@
+./fetch gets all files from the system and copies it into this repository
+To use the bashrc_addon file add this line to ~/.bashrc
+source <repopath>/cfg/bashrc_addon
